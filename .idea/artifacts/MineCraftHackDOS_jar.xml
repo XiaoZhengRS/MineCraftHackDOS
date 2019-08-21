@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MineCraftHackDOS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MineCraftHackDOS_jar</output-path>
+    <root id="archive" name="MineCraftHackDOS.jar">
+      <element id="module-output" name="MineCraftHackDOS" />
+      <element id="extracted-dir" path="D:/CS/插件包/gson-2.8.0.jar" path-in-jar="/" />
+      <element id="library" level="project" name="gson-2.8.0" />
+    </root>
+  </artifact>
+</component>
